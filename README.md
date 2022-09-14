@@ -1,20 +1,18 @@
 # Overview
+This is a "Hello World" program
 
-Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.
+A simple program using the "Python" language
 
-Provide a description of your software
-
-Describe your purpose for creating this software.
-
+This was a simple refresher
 
 
 # Development Environment
 
-Describe the tools that you used to develop the software
+I used Visual Studio Code 
 
-Describe the programming language that you used
+I used the Python language
 
 # Useful Websites
 
-Make a list of websites that you found helpful in this project
+A simple google search would suffice. 
 
