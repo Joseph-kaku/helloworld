@@ -1,1 +1,1 @@
-print("aloha, Ninos")
+print("Hello, World. It's a new day")
